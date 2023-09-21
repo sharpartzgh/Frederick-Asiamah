@@ -1,0 +1,33 @@
+*{
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Helvetica', sans-serif;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 100px;
+}
+
+.under-construction {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #777;
+}
+@media(max-width: 600px){
+    h1 {
+        font-size: 16px;  
+    }
+    p{
+        font-size: 12px;
+    }
+}
