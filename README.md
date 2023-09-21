@@ -1,4 +1,6 @@
 # Personal Portfolio Website 
+## 🚀 Live Demo 
+-   [Live Demo](https://sharpartzgh.github.io/Frederick-Asiamah/)
 
 ## Notice
 - Under Development
